@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/stealjs/system-define.svg?branch=master)](https://travis-ci.org/stealjs/system-define)
+[![npm version](https://badge.fury.io/js/system-define.svg)](http://badge.fury.io/js/system-define)
 
 # system-define
 
