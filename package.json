@@ -1,0 +1,35 @@
+{
+  "name": "system-define",
+  "version": "0.1.0",
+  "description": "A better System.define",
+  "main": "define.js",
+  "scripts": {
+    "test": "testee test/test.html --browsers firefox --reporter Spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stealjs/system-define.git"
+  },
+  "keywords": [
+    "stealjs"
+  ],
+  "author": "Bitovi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stealjs/system-define/issues"
+  },
+  "files": [
+    "define.js"
+  ],
+  "homepage": "https://github.com/stealjs/system-define#readme",
+  "devDependencies": {
+    "steal": "^0.12.9",
+    "steal-qunit": "^0.1.1",
+    "testee": "^0.2.3"
+  },
+  "system": {
+    "npmDependencies": [
+      "steal-qunit"
+    ]
+  }
+}
